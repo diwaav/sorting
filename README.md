@@ -1,4 +1,4 @@
-# Assignment 3 - Sorting: Putting your affairs in order
+# Sorting [CSE 13S]
 This program uses various sorting methods to sort integers in a random array. 
 The user has the option to ask the program to print a certain number of elements, 
 set the seed, and size of the array. 
